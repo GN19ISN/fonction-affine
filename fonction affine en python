@@ -1,0 +1,7 @@
+ a=input("Rentrez la valeur de a")
+ b=input("Rentrez la valeur de b")
+ a=float(a)
+ b=float(b)
+ for x in range(0,10)
+    y=a*x+b
+	print(y)
